@@ -4,8 +4,6 @@ public class TestStudent {
 
 	public static void main(String[] args) {
 		
-	
-		
 		Student student1 = new Student ();
 		student1.firstName = "Hafiz"; //variable initialized
 		student1.studentId = 3678;
